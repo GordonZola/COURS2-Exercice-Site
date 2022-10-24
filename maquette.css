@@ -1,0 +1,104 @@
+.main{
+   width: 1200px;
+   margin: 0 auto; 
+}
+
+.logo{
+    font-size: xx-large;
+    font-weight: 1000;
+    margin-left: 40px;
+}
+
+.searchbar{
+    float: right;
+    background-color: black;
+    color: aliceblue;
+}
+
+figure{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
+.monsieur img{
+    width: 100%;
+}
+
+.liste1{
+    display: inline-block;
+    background-color: black;
+    height: 45px;
+    width: 160px;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    line-height: 5;
+}
+
+.todiv{
+    font-size: larger;
+    background-color: rgb(241, 234, 234);
+    height: 55px;
+    width: 1200px;
+    text-align: right;
+    line-height: 2.3;
+    position: absolute;
+    top: 420px;
+    opacity: 0.5;
+    font-size: x-large;
+}
+
+.presta1{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    height: 180px;
+    width: 235px;
+    text-align: center;
+    line-height: 5;
+}
+
+h2{
+    font-weight: 1000;
+}
+
+.planning{
+    display: inline-block;
+    width: 33%;
+    text-align: justify;
+}
+
+.clients{
+    display: inline-block;
+    width: 19%;
+}
+
+.bouton2{
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: rgb(39, 37, 37);
+    color: rgb(179, 162, 162);
+}
+
+.footer1{
+    display: inline-block;
+    width: 30%;
+}
+
+.texte1{
+    font-size: x-small;
+    font-style: italic;
+}
+
+.texte2{
+    font-size: x-small;
+}
+
+.list2{
+    font-size: small;
+}
